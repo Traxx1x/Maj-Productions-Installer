@@ -1,9 +1,9 @@
 {
   "ruststudio": {
-    "version": "0.1.1",
-    "url": "https://github.com/Traxx1x/Maj-Productions-Installer/releases/download/ruststudio-v0.1.1/RustStudio-0.1.1.zip",
-    "size": 34533316,
-    "sha256": "1ac4d104bcdcac49025263031f41f91ae7a3d31f8e44d2082621a1f7bbfa373f",
+    "version": "0.1.2",
+    "url": "https://github.com/Traxx1x/Maj-Productions-Installer/releases/download/ruststudio-v0.1.2/RustStudio-0.1.2.zip",
+    "size": 34543788,
+    "sha256": "8c05dbc17c4292bd658318dcd4b0bc769bda5fe3b41cb2b8ba6388467f5a0435",
     "exe": "RustStudio.exe"
   },
   "launcher": {
