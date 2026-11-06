@@ -7,9 +7,9 @@
     "exe": "RustStudio.exe"
   },
   "launcher": {
-    "version": "0.1.10",
-    "url": "https://github.com/Traxx1x/Maj-Productions-Installer/releases/download/v0.1.10/MajProductions-Setup.exe",
-    "size": 121762443,
-    "sha256": "4a939d1bd0b287acc86c62e24f7fcd18670466184c1669eb409a063e89e3e8a1"
+    "version": "0.1.11",
+    "url": "https://github.com/Traxx1x/Maj-Productions-Installer/releases/download/v0.1.11/MajProductions-Setup.exe",
+    "size": 121765359,
+    "sha256": "4c5d76dbb44d59fd69f03011737596d0aad2f06cf46804f90dc01f5d089de41b"
   }
 }
